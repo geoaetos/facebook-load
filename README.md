@@ -10,6 +10,4 @@ window.addEventListener(&quot;load&quot;, downloadJSAtOnload, false)
 ;else if (window.attachEvent)window.attachEvent(&quot;onload&quot;,
 downloadJSAtOnload);
 else window.onload = downloadJSAtOnload;
-see live <a href="http://mhnpetaslefta.blogspot.com/" title="ΕΛΕΥΘΕΡΟΣ ΑΕΤΟΣ"  target="_blank">ΕΛΕΥΘΕΡΟΣ ΑΕΤΟΣ</a>  
-anb 
-<a href="http://www.aetos-news.com/" title="AETOS NEWS"  target="_blank">AETOS NEWS</a>  
+see live <a href="https://www.aetos-apokalypsis.com/" title="ΕΛΕΥΘΕΡΟΣ ΑΕΤΟΣ"  target="_blank">ΕΛΕΥΘΕΡΟΣ ΑΕΤΟΣ</a>  
